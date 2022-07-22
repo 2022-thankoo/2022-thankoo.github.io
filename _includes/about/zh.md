@@ -6,11 +6,23 @@
 # 땡쿠들 😎
 
 ### Backend
-|![](https://github.com/jayjaehunchoi.png?size=130)|![](https://github.com/sure-why-not.png?size=130)|![](https://github.com/yhh1056.png?size=130)|![](https://github.com/skullkim.png?size=130)|
-|:-:|:-:|:-:|:-:|
-|[후니](https://github.com/jayjaehunchoi)|[라라](https://github.com/sure-why-not)|[호호](https://github.com/yhh1056)|[스컬](https://github.com/skullkim)|
+
+#### [후니](https://github.com/jayjaehunchoi)
+![](https://github.com/jayjaehunchoi.png?size=130)
+
+#### [라라](https://github.com/sure-why-not)
+![](https://github.com/sure-why-not.png?size=130)
+
+#### [호호](https://github.com/yhh1056)
+![](https://github.com/yhh1056.png?size=130)
+
+#### [스컬](https://github.com/skullkim)|
+![](https://github.com/skullkim.png?size=130)|
+
 
 ### Frontend
-|![](https://github.com/KangYunHo1221.png?size=130)|![](https://github.com/kwannee.png?size=130)|
-|:-:|:-:|
-|[비녀](https://github.com/KangYunHo1221)|[후이](https://github.com/kwannee)|
+#### [비녀](https://github.com/KangYunHo1221)
+![](https://github.com/KangYunHo1221.png?size=130)
+
+#### [후이](https://github.com/kwannee)|
+![](https://github.com/kwannee.png?size=130)|

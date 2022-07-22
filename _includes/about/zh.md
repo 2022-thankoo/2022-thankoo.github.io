@@ -31,8 +31,19 @@
 </table>
 
 ### Frontend
-#### [비녀](https://github.com/KangYunHo1221)
-![](https://github.com/KangYunHo1221.png?size=130)
-
-#### [후이](https://github.com/kwannee)|
-![](https://github.com/kwannee.png?size=130)|
+<table style="table-layout: fixed; word-break: break-all; width: auto; height: auto;">
+    <colgroup>
+        <col style="width: 50%">
+        <col style="width: 50%">
+    </colgroup>
+    <tbody>
+    <tr>
+        <td style="text-align: center"><a href='https://github.com/KangYunHo1221'>비녀</a></td>
+        <td style="text-align: center"><a href="https://github.com/kwannee">후이</a></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/KangYunHo1221.png?size=130" alt="hoho image"></td>
+        <td><img src="https://github.com/kwannee.png?size=130" alt="skull image"></td>
+    </tr>
+    </tbody>
+</table>

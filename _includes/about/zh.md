@@ -7,7 +7,7 @@
 
 ### Backend
 
-#### [후니](https://github.com/jayjaehunchoi)
+<h4><a href='https://github.com/jayjaehunchoi' style='self-align: center'>후니</a></h4>
 ![](https://github.com/jayjaehunchoi.png?size=130)
 
 #### [라라](https://github.com/sure-why-not)
@@ -16,8 +16,8 @@
 #### [호호](https://github.com/yhh1056)
 ![](https://github.com/yhh1056.png?size=130)
 
-#### [스컬](https://github.com/skullkim)|
-![](https://github.com/skullkim.png?size=130)|
+#### [스컬](https://github.com/skullkim)
+![](https://github.com/skullkim.png?size=130)
 
 
 ### Frontend

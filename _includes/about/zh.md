@@ -7,18 +7,28 @@
 
 ### Backend
 
-<h4><a href='https://github.com/jayjaehunchoi' style='self-align: center'>후니</a></h4>
-![](https://github.com/jayjaehunchoi.png?size=130)
-
-#### [라라](https://github.com/sure-why-not)
-![](https://github.com/sure-why-not.png?size=130)
-
-#### [호호](https://github.com/yhh1056)
-![](https://github.com/yhh1056.png?size=130)
-
-#### [스컬](https://github.com/skullkim)
-![](https://github.com/skullkim.png?size=130)
-
+ <table style="table-layout: fixed; word-break: break-all; width: auto; height: auto;">
+    <colgroup>
+        <col style="width: 25%">
+        <col style="width: 25%">
+        <col style="width: 25%">
+        <col style="width: 25%">
+    </colgroup>
+    <tbody>
+        <tr>
+            <td style="text-align: center"><a href='https://github.com/jayjaehunchoi'>후니</a></td>
+            <td style="text-align: center"><a href="https://github.com/sure-why-not">라라</a></td>
+            <td style="text-align: center"><a href="https://github.com/yhh1056">호호</a></td>
+            <td style="text-align: center"><a href="https://github.com/skullkim">스컬</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/jayjaehunchoi.png?size=130" alt="huni image"></td>
+            <td><img src="https://github.com/sure-why-not.png?size=130" alt="lala image"></td>
+            <td><img src="https://github.com/yhh1056.png?size=130" alt="hoho image"></td>
+            <td><img src="https://github.com/skullkim.png?size=130" alt="skull image"></td>
+        </tr>
+    </tbody>
+</table>
 
 ### Frontend
 #### [비녀](https://github.com/KangYunHo1221)

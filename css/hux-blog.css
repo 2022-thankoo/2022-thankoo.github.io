@@ -1187,6 +1187,9 @@ samp {
   font-weight: 300;
   margin: 10px 0 0;
 }
+.subheading {
+    font-weight: 400;
+}
 @media only screen and (min-width: 768px) {
   .intro-header .site-heading h1,
   .intro-header .page-heading h1 {

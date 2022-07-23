@@ -76,11 +76,11 @@ command, aggregate, event는 command가 aggregate에게 영향을 주고 최종�
 ## Event Storming 실행 절차
 
 이벤트를 붙일 때는 왼쪽에서 오른쪽으로 시간 순으로 붙인다.  
-![event sotrming flow1](/img/in-post/2022-07-23-event-storming/eventSormingFlow1.png)  
+![event sotrming flow1](/img/in-post/2022-07-23-event-storming/eventStormingFlow1.png)  
 command는 event와 짝으로 발생한하며 각 event 왼편에 위치한다.  
-![event sotrming flow2](/img/in-post/2022-07-23-event-storming/eventSormingFlow2.png)  
+![event sotrming flow2](/img/in-post/2022-07-23-event-storming/eventStormingFlow2.png)  
 이제 command와 event와 관련된 aggregate를 붙인다.  
-![event sotrming flow3](/img/in-post/2022-07-23-event-storming/eventSormingFlow3.png)  
+![event sotrming flow3](/img/in-post/2022-07-23-event-storming/eventStormingFlow3.png)  
 command는 aggregate에 영향을 미쳐서 aggregate의 상태가 바뀌고, 그로 인해 event가 발생한다.  
 
 ## Boris diagram

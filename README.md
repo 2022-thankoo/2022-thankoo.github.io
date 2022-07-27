@@ -1,57 +1,59 @@
-[Hux Blog](https://huangxuan.me)
+[Thankoo Tech Blog](https://2022-thankoo.github.io/)
 ================================
 
-> I never expect this becomes popular.
+> Use a coupon to convey your heart.
 
-![](http://huangxuan.me/img/blog-desktop.jpg)
+![thankoo logo](./img/home-bg.jpg)
 
-
-[User Manual 👉](_doc/Manual.md)
 --------------------------------------------------
 
-### Getting Started
+# [Thankoo Repository](https://github.com/woowacourse-teams/2022-thankoo)
 
-1. You will need [Ruby](https://www.ruby-lang.org/en/) and [Bundler](https://bundler.io/) to use [Jekyll](https://jekyllrb.com/). Following [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) to fullfill the enviromental requirement.
+--------------------------------------------------
 
-2. Installed dependencies in the `Gemfile`:
+# About Us
+<table style="table-layout: fixed; word-break: break-all; width: auto; height: auto;">
+    <colgroup>
+        <col style="width: 25%">
+        <col style="width: 25%">
+        <col style="width: 25%">
+        <col style="width: 25%">
+    </colgroup>
+    <tbody>
+        <tr>
+            <td style="text-align: center"><a href='https://github.com/jayjaehunchoi'>후니</a></td>
+            <td style="text-align: center"><a href="https://github.com/sure-why-not">라라</a></td>
+            <td style="text-align: center"><a href="https://github.com/yhh1056">호호</a></td>
+            <td style="text-align: center"><a href="https://github.com/skullkim">스컬</a></td>
+        </tr>
+        <tr>
+            <td><img src="https://github.com/jayjaehunchoi.png?size=130" alt="huni image"></td>
+            <td><img src="https://github.com/sure-why-not.png?size=130" alt="lala image"></td>
+            <td><img src="https://github.com/yhh1056.png?size=130" alt="hoho image"></td>
+            <td><img src="https://github.com/skullkim.png?size=130" alt="skull image"></td>
+        </tr>
+    </tbody>
+</table>
 
-```sh
-$ bundle install 
-```
+### Frontend
+<table style="table-layout: fixed; word-break: break-all; width: auto; height: auto;">
+    <colgroup>
+        <col style="width: 50%">
+        <col style="width: 50%">
+    </colgroup>
+    <tbody>
+    <tr>
+        <td style="text-align: center"><a href='https://github.com/KangYunHo1221'>비녀</a></td>
+        <td style="text-align: center"><a href="https://github.com/kwannee">후이</a></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/KangYunHo1221.png?size=130" alt="hoho image"></td>
+        <td><img src="https://github.com/kwannee.png?size=130" alt="skull image"></td>
+    </tr>
+    </tbody>
+</table>
 
-3. Serve the website (`localhost:4000` by default):
-
-```sh
-$ bundle exec jekyll serve  # alternatively, npm start
-```
-
-### Development (Build From Source)
-
-To modify the theme, you will need [Grunt](https://gruntjs.com/). There are numbers of tasks you can find in the `Gruntfile.js`, includes minifing JavaScript, compiling `.less` to `.css`, adding banners to keep the Apache 2.0 license intact, watching for changes, etc. 
-
-Yes, they were inherited and are extremely old-fashioned. There is no modularization and transpilation, etc.
-
-Critical Jekyll-related code are located in `_include/` and `_layouts/`. Most of them are [Liquid](https://github.com/Shopify/liquid/wiki) templates.
-
-This theme uses the default code syntax highlighter of jekyll, [Rouge](http://rouge.jneen.net/), which is compatible with Pygments theme so just pick any pygments theme css (e.g. from [here](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html) and replace the content of `highlight.less`.
-
-
-### Interesting to know more? Checkout the [full user manual](_doc/Manual.md)!
-
-
-Other Resources
----------------
-
-Ports
-- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
-- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
-
-[Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
-- Out of date. Helps wanted for updating it on par with the main repo
-
-Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
-
+--------------------------------------------------
 
 License
 -------

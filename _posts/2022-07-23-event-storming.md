@@ -3,6 +3,7 @@ title: "EventStorming"
 layout: "post"
 author: "skull"
 header-style: text
+comments: true
 tags:
 - domain 
 - design

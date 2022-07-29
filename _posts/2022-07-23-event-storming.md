@@ -98,6 +98,6 @@ Event diagram을 통해 나온 상관관계들을 aggregate 단위로 봤을 때
 
 땡쿠팀은 새로운 스프린트가 시작되는 첫날에 event storming을 진행한다. 그러면서 기존 도메인을 되돌아 보고, 새로 추가할 도메인을 파악한다. Event storming을 시행
 하고 나니, 도메인을 보다 수월히 이해할 수 있게 되었고 팀원 끼리 같은 도메인 지식을 공유할 수 있게 되었다.   
-![thankoo event storming](/img/in-post/2022-07-23-event-storming/thankoo-event-storming.jpg)
+![thankoo event storming](/img/in-post/2022-07-23-event-storming/thankoo-eventStorming.jpg)
 
 

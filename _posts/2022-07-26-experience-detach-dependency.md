@@ -3,6 +3,7 @@ title: "강한 의존관계를 분리하기까지"
 layout: "post"
 author: "huni"
 header-style: text
+comments: true
 tags:
 - domain 
 - design

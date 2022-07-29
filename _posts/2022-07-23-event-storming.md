@@ -1,7 +1,7 @@
 ---
 title: "EventStorming"
 layout: "post"
-author: "skull"
+author: "skull(김윤기)"
 header-style: text
 comments: true
 tags:
@@ -91,5 +91,13 @@ Event diagram을 통해 나온 상관관계들을 aggregate 단위로 봤을 때
 ## Snap E
 위 과정을 통해 도출한 서비스 중 일부를 필요하다면 좀 더 상세하게 적을 수 있다. 여기에는 해당 서비스가 사용하는 API, data, user story 등이 포함된다. 이를 통해 해당 서비스와 연관된 모든 것들을 한 눈에 파악할 수 있다.
 ![snap e](/img/in-post/2022-07-23-event-storming/snape.png)
+
+# 왜 event storming을 젹용했나.
+  팀 단위로 프로젝트를 하고, 스프린트 기간 동안 빠르게 기능을 구현하다 보니 팀원 간의 도메인 지식이 서로 다르다는 것을 알게 되었다. 팀원들이 가지고 있는 도메인 지식을
+획일화 시키고 매 스프린트 마다 구현해야 하는 기능에 대해 보다 명확히 파악하기 위해 event storming을 하기로 결정했다.  
+
+땡쿠팀은 새로운 스프린트가 시작되는 첫날에 event storming을 진행한다. 그러면서 기존 도메인을 되돌아 보고, 새로 추가할 도메인을 파악한다. Event storming을 시행
+하고 나니, 도메인을 보다 수월히 이해할 수 있게 되었고 팀원 끼리 같은 도메인 지식을 공유할 수 있게 되었다.   
+![thankoo event storming](/img/in-post/2022-07-23-event-storming/thankoo-event-storming.jpg)
 
 
